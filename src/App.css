@@ -1,0 +1,17 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
