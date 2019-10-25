@@ -1,6 +1,6 @@
 # React-WhatsApp-CLone
  
- # Published Link: https://zeit.co/sheikhuzair26/my-app/acmo9mb0p
+ # Published Link: https://my-app.sheikhuzair26.now.sh/
  
  - I created this Clone by using Functional Component 
  - Passing the Data through JSON
